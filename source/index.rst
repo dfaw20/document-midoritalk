@@ -3,17 +3,19 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to document-midoritalk's documentation!
+MidoriTalk Documentation
 ===============================================
 
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
 
+   frontend/index
+
 
 
 Indices and tables
-==================
+====================================
 
 * :ref:`genindex`
 * :ref:`modindex`
